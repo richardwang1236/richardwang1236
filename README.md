@@ -5,7 +5,7 @@
 <hr/>
 <h4 align="center">I am an undergraduate student at the University of Toronto majoring in computer science. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. Passionate developer with a love for problem-solving and creating innovative solutions. Experienced in various programming languages and frameworks. Dedicated to continuous learning and growth in the ever-evolving world of technology. Open to collaboration and exploring new opportunities.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=richardwang1236&label=Candida's%20Profile%20Views%20&color=dc143c&style=plastic" alt="richardwang1236" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=richardwang1236&label=Richard's%20Profile%20Views%20&color=brighten&style=plastic" alt="richardwang1236" /> </p>
 
 ## 🔥 Streak Stats
 
