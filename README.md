@@ -9,7 +9,7 @@
 
 ## 🔥 Streak Stats
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=richardwang1236&theme=algolia" alt="candida18" /></p>
 
 ## 🛠️ My Skills
 
