@@ -1,12 +1,26 @@
-<h1 align="center">Hi , I'm Richard <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
-</p>
-<hr/>
-<h4 align="center">Hi, I’m Richard, an undergraduate student at the University of Toronto majoring in Computer Science & Statistics. I am passionate about Machine Learning and Deep Learning, with hands-on experience in building predictive models, designing AI-driven systems, and analyzing large-scale datasets.
+<h1 align="center">
+  Hi, I'm Richard <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
-I have worked on real-world healthcare and industry projects, including optimizing ICU lab test policies, predicting patient recovery outcomes, and developing AI-powered supply chain solutions. I enjoy solving complex problems, experimenting with new algorithms, and translating research into actionable insights.</h4>
-<br>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always+learning+new+things&center=true&width=500&height=50&font=georgia">
+  </a>
+</p>
+
+<hr/>
+
+<p>
+I’m an undergraduate student at the <b>University of Toronto</b> majoring in <b>Computer Science & Statistics</b>.  
+I am passionate about <b>Machine Learning and Deep Learning</b>, with hands-on experience in building predictive models, designing AI-driven systems, and analyzing large-scale datasets.
+</p>
+
+<p>
+I have worked on real-world healthcare and industry projects, including optimizing ICU lab test policies, predicting patient recovery outcomes, and developing AI-powered supply chain solutions.  
+I enjoy solving complex problems, experimenting with new algorithms, and translating research into actionable insights.
+</p>
+
+<br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=richardwang1236&label=Richard's%20Profile%20Views%20&color=brightgreen&style=plastic" alt="richardwang1236" /> </p>
 
 ## 🔥 Streak Stats
