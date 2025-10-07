@@ -3,7 +3,9 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
 <hr/>
-<h4 align="center">I am an undergraduate student at the University of Toronto majoring in computer science. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. Passionate developer with a love for problem-solving and creating innovative solutions. Experienced in various programming languages and frameworks. Dedicated to continuous learning and growth in the ever-evolving world of technology. Open to collaboration and exploring new opportunities.</h4>
+<h4 align="center">Hi, I’m Richard, an undergraduate student at the University of Toronto majoring in Computer Science & Statistics. I am passionate about Machine Learning and Deep Learning, with hands-on experience in building predictive models, designing AI-driven systems, and analyzing large-scale datasets.
+
+I have worked on real-world healthcare and industry projects, including optimizing ICU lab test policies, predicting patient recovery outcomes, and developing AI-powered supply chain solutions. I enjoy solving complex problems, experimenting with new algorithms, and translating research into actionable insights.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=richardwang1236&label=Richard's%20Profile%20Views%20&color=brightgreen&style=plastic" alt="richardwang1236" /> </p>
 
